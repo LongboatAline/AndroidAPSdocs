@@ -52,7 +52,6 @@ Getting Started with AndroidAPS
    Pump choices </EN/Getting-Started/Pump-Choices.md>
    Future possible pump drivers  </EN/Getting-Started/Future-possible-Pump-Drivers.md>
    Glossary </EN/Getting-Started/Glossary.md>
-   How to help </EN/Getting-Started/How-can-I-help.md>
    
   
 How to Install AndroidAPS
@@ -63,6 +62,7 @@ How to Install AndroidAPS
 
    Building the APK </EN/Installing-AndroidAPS/Building-APK.md>
    How to update to a new version </EN/Installing-AndroidAPS/Update-to-new-version.md>
+   Release notes </EN/Installing-AndroidAPS/Releasenotes.md>
    Nightscout </EN/Installing-AndroidAPS/Nightscout.md>
  
    
@@ -104,4 +104,16 @@ Where to go for help
 
    Background reading & interesting articles </EN/Where-To-Go-For-Help/Background-reading.md>
    Where to go for help </EN/Where-To-Go-For-Help/Connect-with-other-users.md>
+
+How to help
+------------
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+   How to help </EN/Getting-Started/How-can-I-help.md>
+   How to translate the App </EN/translations.md>
+   How to edit the wiki </make-a-PR>
+
+
 
